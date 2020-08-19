@@ -1,13 +1,14 @@
-#テストネットICBファセット用コント楽
+# テストネットICBファセット用コント楽
 
 オレオレテストネットコントラクトなので、公式ではありません。
 
 いったんRinkebyやRopstenでローンチしてます
 
 ICBに関しては下記(公式)
-[https://icb.jcam.co.jp/](https://icb.jcam.co.jp/)
 
-#USAGE
+[https://icb.jcam.co.jp/](https://icb.jcam.co.jp/){:target="_blank"}
+
+# 使い方
 
 1..env.sampleを.envに変更して、mnemonicやエンドポイントを設定
 
@@ -25,8 +26,9 @@ truffle migrate (--network rinkeby)
 ```
 
 
-#(オレオレ)テストネットICBコントラクト情報
+# (オレオレ)テストネットICBコントラクト情報
 
-Rinkeby : 0x5446E3481e3fe4b3082067145A47d7a0F09d5E1A ([Etherscan](https://rinkeby.etherscan.io/address/0x5446E3481e3fe4b3082067145A47d7a0F09d5E1A))
-Ropsten : 0x7725419506d38F1c0f6Bee88960385b0b50586f7([Etherscan](https://ropsten.etherscan.io/address/0x7725419506d38F1c0f6Bee88960385b0b50586f7))
+Rinkeby : 0x5446E3481e3fe4b3082067145A47d7a0F09d5E1A ([Etherscan](https://rinkeby.etherscan.io/address/0x5446E3481e3fe4b3082067145A47d7a0F09d5E1A){:target="_blank"})
+
+Ropsten : 0x7725419506d38F1c0f6Bee88960385b0b50586f7([Etherscan](https://ropsten.etherscan.io/address/0x7725419506d38F1c0f6Bee88960385b0b50586f7){:target="_blank"})
 
